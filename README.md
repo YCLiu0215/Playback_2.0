@@ -1,4 +1,6 @@
-Stimuli_AmplitudeNormalization.py - simply putting song files and label files in different folders, you can batchly normalize the amplitude and append silence to make every file the same duration.
+**Stimuli_AmplitudeNormalization.py** 
+
+simply putting song files and label files in different folders, you can batchly normalize the amplitude and append silence to make every file the same duration.
 
    **Important parameters**
    
@@ -13,10 +15,13 @@ Stimuli_AmplitudeNormalization.py - simply putting song files and label files in
    target_amp: the amplitude you are normalizing it to. Although the number is negative, but the bigger the number the louder the sound (ex. -10 is louder than -20).
    
    file_duration: the target duration of the files. the code will automatically add silence to the end of the song file, and make it exactly the duration you ask for.
-   
-SugiyamaUnit_Playback_ver2.0.py - Simply putting all the songfiles you want to play in a folder and you can randomly play those songs, and you will get a log sheet of playback timing and all the files you have played.
 
-   (I have another version with the scheduled playback function, I am happy to provide that upon request)
+
+
+   
+**SugiyamaUnit_Playback_ver2.0.py**
+
+Simply putting all the songfiles you want to play in a folder and you can randomly play those songs, and you will get a log sheet of playback timing and all the files you have played. (I have another version with the scheduled playback function, I am happy to provide that upon request)
    
    **Important parameters**
    
