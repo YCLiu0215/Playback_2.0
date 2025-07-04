@@ -1,4 +1,4 @@
-1. Stimuli_AmplitudeNormalization.py - simply putting song files and label files in different folders, you can batchly normalize the amplitude and append silence to make every file the same duration. /n
+1. Stimuli_AmplitudeNormalization.py - simply putting song files and label files in different folders, you can batchly normalize the amplitude and append silence to make every file the same duration. \n
    **Important parameters**
    Folder: the name of the folder for output the normalized song files.
    dir_path_song: the directory of song files (.wav).
